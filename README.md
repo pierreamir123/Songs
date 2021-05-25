@@ -9,3 +9,14 @@
 #similarty between the first 3 is the same singer voice and with the 4th it's similar tune&lycris
 ###Link To separate:https://vocalremover.org/
 ````````````````````````````````````````````````````````````````````````````````````
+`````````````````````````````````````````````
+Songs of Group 4
+#song 1->jon billion the internet cover
+#song 2->jon billion the internet original
+#song 3->sia snowman cover
+#song 4->sia snowman original
+_____________________________________
+G4_ ~simillarities~
+ song 1/2 music and lyrics
+ song 3/4 music and lyrics
+``````````````````````````````````````````````
