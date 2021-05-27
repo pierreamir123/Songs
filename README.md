@@ -20,3 +20,12 @@ G4_ ~simillarities~
  song 1/2 music and lyrics
  song 3/4 music and lyrics
 ``````````````````````````````````````````````
+````````````````````````````````````````````````````````````````````````````````````
+Songs of Group 7
+song 1 -> Sia-Unstopable
+song 2 -> Sia-together
+song 3 -> Alan Walker-Alone
+song 4 -> Alan Walker-sing me to sleep
+Similarity:
+song 1 and 2 : same singer
+song 3 and 4 : similer tunes
