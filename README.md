@@ -29,3 +29,15 @@ song 4 -> Alan Walker-sing me to sleep
 Similarity:
 song 1 and 2 : same singer
 song 3 and 4 : similer tunes
+`````````````````````````````````````````````
+````````````````````````````````````````````````````````````````````````````````````
+Songs of Group 3
+#song 1-> Only you (Louis Armstrong)
+#song 2-> What A Wonderful World (Louis Armstrong)
+#song 3-> Fly me to the moon <Original> (Frank Sinatra)
+#song 4-> Fly me to the moon <Cover>
+_____________________________________
+G3_Simillarities:
+ song 1/2 ---> same Singer 
+ song 3/4 ---> same music and lyrics
+``````````````````````````````````````````````
